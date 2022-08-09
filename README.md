@@ -11,6 +11,7 @@ You will get number of products as a result
 To scrape all products --- Enter 1
 
 To scrape products by number --- Enter 2
+
     Then put your number of products you want to scrape!
 
 To close the page --- Enter 3

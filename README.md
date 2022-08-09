@@ -10,8 +10,7 @@ product[name, link, price, photo, info]
 
 
 
-put your product name that you want to scrap!
-You will get number of products as a result
+#put your product name that you want to scrap! .. You will get number of products as a result
 
 # You will have 3 options:
 

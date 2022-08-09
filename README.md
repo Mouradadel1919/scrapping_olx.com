@@ -3,6 +3,13 @@
 
 
 "
+
+# information of product you will get:
+
+product[name, link, price, photo, info]
+
+
+
 put your product name that you want to scrap!
 You will get number of products as a result
 
